@@ -1,0 +1,9 @@
+Time=0   | A=25 | B=17 | Opcode=000 | Result=3c | Carry=0
+Time=10  | A=35 | B=12 | Opcode=001 | Result=23 | Carry=0
+Time=20  | A=aa | B=0f | Opcode=010 | Result=0a | Carry=0
+Time=30  | A=aa | B=0f | Opcode=011 | Result=af | Carry=0
+Time=40  | A=aa | B=0f | Opcode=100 | Result=a5 | Carry=0
+Time=50  | A=55 | B=00 | Opcode=101 | Result=aa | Carry=0
+Time=60  | A=0f | B=00 | Opcode=110 | Result=10 | Carry=0
+Time=70  | A=10 | B=00 | Opcode=111 | Result=0f | Carry=0
+Time=80  | A=ff | B=01 | Opcode=000 | Result=00 | Carry=1
